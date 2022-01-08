@@ -23,14 +23,14 @@ The code is well arranged into sub-directories which are -
 2. Fork this repository.
 3. Clone the forked repository:
 ~~~
-git clone https://github.com/<your github username>/Othello
+git clone https://github.com/<your github username>/XOR-Cipher
 ~~~
 4. Add a remote to the upstream repository:
 ~~~
 # typing the command below should show you only 1 remote named origin with the URL of your forked repository
 git remote -v
 # adding a remote for the upstream repository
-git remote add upstream https://github.com/bodhi996/Othello.github
+git remote add upstream https://github.com/bodhi996/XOR-Cipher.github
 ~~~
 5. Run the application.
 6. Create a new issue if you face any difficulties (after browsing through StackOverflow on your own) and someone will help you 😁
