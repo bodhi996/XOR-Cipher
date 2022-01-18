@@ -11,7 +11,7 @@ This image contains no information about the original image. If we didn’t prov
 
 ## Description of the codebase
  
-<img src="Encrypt.jpg" width="250" height="250"> <img src="Out.jpg" width="250" height="250"> 
+<pre> <img src="Encrypt.jpg" width="250" height="250">    <img src="Out.jpg" width="250" height="250"> </pre>
 
 The code is well arranged into sub-directories which are -
 1. The first page is the ```initial``` image which we are intersted in Encrypting.
